@@ -1,4 +1,4 @@
-### 🌱 <h1>I’m currently learning ...</h1>
+### <img style="height:60px;" src="https://github.com/LeaLud/LeaLud/blob/main/img/pngegg.png?raw=true" />I’m currently learning ...
 
 <!--
 **LeaLud/LeaLud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
