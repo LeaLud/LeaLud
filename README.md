@@ -1,5 +1,4 @@
-### <img src="https://github.com/LeaLud/LeaLud/blob/main/img/matrix-code%5B1%5D.gif" />
-<img src="https://media.tenor.com/yasksYy1XekAAAAC/matrix-code.gif" />
+### 
 
 <!--
 **LeaLud/LeaLud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
