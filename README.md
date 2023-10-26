@@ -1,9 +1,4 @@
 ### 
-<table width="100%" background-color="#000">
-  <tr>
-    <td align="center"><img src="https://media.tenor.com/yasksYy1XekAAAAC/matrix-code.gif" /></td>
-  </tr>
-</table>
 
 <!--
 **LeaLud/LeaLud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
