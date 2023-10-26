@@ -1,5 +1,7 @@
 ### <img style="height:60px;" src="https://github.com/LeaLud/LeaLud/blob/main/img/pngegg.png?raw=true" /> I’m currently learning ...
 
+ <img src="https://github.com/LeaLud/LeaLud/blob/main/img/pngegg1.png?raw=true" />
+
 <!--
 **LeaLud/LeaLud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
